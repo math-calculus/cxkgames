@@ -18,7 +18,7 @@ document.getElementById("bar").innerHTML=`
         <li class="mdui-subheader">蔡徐坤小游戏鸡场</li>
         <li class="mdui-subheader">工具</li>
         <li class="mdui-subheader">小游戏</li>
-        <li class="mdui-list-item mdui-ripple" onclick="location.href='/games/eatchicken/index.html'">
+        <li class="mdui-list-item mdui-ripple" onclick="location.href='/static/games/eatchicken/index.html'">
             <i class="mdui-list-item-icon mdui-icon material-icons">star</i>
             <div class="mdui-list-item-content">吃掉蔡徐坤</div>
         </li>
