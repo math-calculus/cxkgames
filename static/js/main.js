@@ -33,3 +33,9 @@ document.getElementById("bar").innerHTML=`
         </div>
     </ul>
 </div>`
+
+mdui.mutation()
+
+document.getElementById("cxkgames-drawer-openbutton").onclick=function(){
+    (new mdui.Drawer('#cxkgames-drawer')).toggle()
+}
